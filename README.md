@@ -1,5 +1,19 @@
-# 🧑‍💻 About Me:
-Hello! I'm Ömer Faruk Külçeler. A passionate software engineering student based in Denizli, Turkey. With a strong interest in interactive technologies and game development.<br><br>- 🔭 Currently contributing as a Game Development Team Member at Huawei Student Developers Bandırma.<br>- 📚 Actively expanding my expertise in Unreal Engine Blueprint, while deepening my proficiency in Unity, C#, and game architecture design.<br>- ⚡ In my spare time, I enjoy building indie games, experimenting with gameplay mechanics, and participating in open-source game development initiatives.
+### Hi there, I'm Ömer Faruk Külçeler 👋
+
+**Gameplay Programmer | Software Engineering Undergraduate**
+
+I am a 3rd-year Software Engineering student bridging the gap between **Computer Science fundamentals** and **Game Development**. Unlike typical hobbyists, I focus on scalable architecture, memory management, and clean code principles within game engines.
+
+Currently, I am working as a Core Developer at **VIO Games**, engineering the gameplay systems for an unannounced commercial simulation title slated for a **Steam** release.
+
+---
+
+- 🚀 **Currently Working On:** Developing complex gameplay loops and UI systems for a commercial simulation game (Unreal Engine 5).
+- 🛠 **Technical Focus:** Unreal Engine 5 (C++ & Advanced Blueprint Integration), System Architecture, Interface-Driven Design.
+- 💼 **Experience:** Core Gameplay Programmer at **VIO Games** | Game Dev Team Member at **Huawei Student Developers**.
+- 🧠 **Philosophy:** I don't just "make games work"; I engineer them to be maintainable, performant, and scalable.
+
+---
 
 
 ## 🌐 Socials:
