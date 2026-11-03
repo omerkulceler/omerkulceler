@@ -2,7 +2,7 @@
 
 **Gameplay Programmer | Software Engineering Undergraduate**
 
-I am a 3rd-year Software Engineering student bridging the gap between **Computer Science fundamentals** and **Game Development**. Unlike typical hobbyists, I focus on scalable architecture, memory management, and clean code principles within game engines.
+I am a 4rd-year Software Engineering student bridging the gap between **Computer Science fundamentals** and **Game Development**. Unlike typical hobbyists, I focus on scalable architecture, memory management, and clean code principles within game engines.
 
 Currently, I am working as a Core Developer at **VIO Games**, engineering the gameplay systems for an unannounced commercial simulation title slated for a **Steam** release.
 
